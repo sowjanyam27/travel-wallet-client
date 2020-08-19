@@ -46,14 +46,6 @@ I plan to continue working on this app, using it as a platform to explore new te
 
 ### Demo
 
-![home](https://user-images.githubusercontent.com/56592518/86966781-03a41300-c16a-11ea-99be-dca49df9a561.png)
-![trips](https://user-images.githubusercontent.com/56592518/86966906-27675900-c16a-11ea-9d10-996cab26d555.png)
-![details](https://user-images.githubusercontent.com/56592518/86967422-e6237900-c16a-11ea-8a85-bf8ebf38eddc.png)
-![addExpense](https://user-images.githubusercontent.com/56592518/86967004-4d8cf900-c16a-11ea-8595-c5dc8b14b396.png)
-![stats](https://user-images.githubusercontent.com/56592518/87040212-ab642400-c1f0-11ea-90c1-73df1c5cc705.png)
-![stats1](https://user-images.githubusercontent.com/56592518/87040276-c171e480-c1f0-11ea-988f-499d09f82f5a.png)
-![email](https://user-images.githubusercontent.com/56592518/87040668-583ea100-c1f1-11ea-8e88-685eeb22c6f2.png)
-
 ### Project User Stories and Wireframe
 
 - User Stories
