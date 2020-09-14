@@ -2,6 +2,11 @@
 
 [See the deployed site here](https://wizardly-poincare-fafda8.netlify.app/)
 
+for testing use the existing user
+
+username: test1@t.com
+password: test1
+
 ## Table of contents
 
 - [Introduction](#introduction)
